@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Currently working on React, NodeJs, Typescript, Javascript, Next, Postgress, React-Native, AWS.<br>📚 I'm currently learning Jenkins, Docker, web3.</p>
+<p align="left">✨ Currently working on React, React-Native, Next, NodeJs, Typescript, Javascript, Postgress, AWS.<br>📚 I'm currently learning Jenkins, web3.</p>
 
 ###
 
