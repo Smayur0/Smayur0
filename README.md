@@ -6,7 +6,7 @@
 </div>
 
 ###
-<p align="left">A programmer and web developer from india.</p>
+<p align="left">A programmer and web developer.</p>
 
 ###
 
