@@ -13,7 +13,7 @@
 <h2 align="left">About me</h2>
 
 ###
-
+<p align="left">✨ 2+ years experience in MERN stack Development.</p>
 <p align="left">✨ Currently working on React, React-Native, Next, NodeJs, Typescript, Javascript, Postgress, AWS.<br>📚 I'm currently learning Jenkins, web3.</p>
 
 ###
