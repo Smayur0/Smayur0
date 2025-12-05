@@ -2,7 +2,7 @@
 
 ###
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shelkemayur4700.shelkemayur4700&left_color=grey&right_color=blue"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Smayur0.Smayur0&left_color=grey&right_color=blue"  />
 </div>
 
 ###
@@ -43,7 +43,7 @@
 ###
 <h2 align="left">Connect with me</h2>
 <div align="left">
-<a href="https://www.linkedin.com/in/shelkemayur" target="_blank">
+<a href="https://www.linkedin.com/in/Smayur0" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn Logo" />
 </a>
 
